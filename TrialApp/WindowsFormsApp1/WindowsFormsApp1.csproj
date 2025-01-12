@@ -62,10 +62,10 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>FCD5308FAE9470D3A3C881E362475C9CBAA34022</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>173DE6C9C96865D0A0B42CC607FF4690B8341B17</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>WindowsFormsApp1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>WindowsFormsApp1_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
@@ -114,6 +114,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="WindowsFormsApp1_1_TemporaryKey.pfx" />
     <None Include="WindowsFormsApp1_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
