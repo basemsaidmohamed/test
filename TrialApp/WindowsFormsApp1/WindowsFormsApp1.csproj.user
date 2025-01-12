@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>H:\New folder %289%29\test\published\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/published/</InstallUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/published/|https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/published/setup.exe/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
