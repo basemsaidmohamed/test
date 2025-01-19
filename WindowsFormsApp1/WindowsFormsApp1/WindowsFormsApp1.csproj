@@ -25,7 +25,8 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/basemsaidmohamed/test/refs/heads/main/publish/</UpdateUrl>
-    <ApplicationRevision>10</ApplicationRevision>
+    <ProductName>ts</ProductName>
+    <ApplicationRevision>13</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -71,6 +72,9 @@
     <ApplicationIcon>imgcompany.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
